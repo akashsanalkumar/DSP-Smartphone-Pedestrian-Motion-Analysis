@@ -3,11 +3,6 @@
 Digital Signal Processing (DSP) — Smartphone-Based Pedestrian Motion Analysis
 FINAL PROJECT MASTER IMPLEMENTATION & EVALUATION PIPELINE
 ========================================================================================
-Course:        Digital Signal Processing (DSP)
-Topic:         Pedestrian Motion Analysis, Step Detection, Sensor Fusion, and PDR Tracking
-Authors:       Akash Sanalkumar (100004612), Sunil Muthegowda (100004562), Mohammed Rafi Qureshi (100002910)
-Submission:    Final Project Work (Complete 36-Dataset Study)
-Deadline:      August 31, 2026
 
 Architecture & Features:
 1. Universal Multi-Sensor Ingestion: Handles standard comma and European semicolon/decimal formats
