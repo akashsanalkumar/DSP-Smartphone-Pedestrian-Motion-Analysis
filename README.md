@@ -2,21 +2,6 @@
 
 Digital Signal Processing (DSP) project for smartphone-based pedestrian step detection, sensor fusion, motion analysis, and 2D Pedestrian Dead Reckoning (PDR) tracking.
 
----
-
-## Authors & Group Members
-
-| Name | Matriculation Number |
-| :--- | :--- |
-| **Akash Sanalkumar** | 100004612 |
-| **Sunil Muthegowda** | 100004562 |
-| **Mohammed Rafi Qureshi** | 100002910 |
-
-**Course:** Digital Signal Processing (DSP)  
-**Topic:** Smartphone-Based Pedestrian Step Detection & Motion Analysis  
-
----
-
 ## Overview & Key Features
 
 1. **Universal Multi-Sensor Ingestion**: Parses Physics Toolbox Suite CSV files across comma and European semicolon/decimal formats for 3-axis Accelerometer ($gFx, gFy, gFz$) and 3-axis Gyroscope ($wx, wy, wz$).
