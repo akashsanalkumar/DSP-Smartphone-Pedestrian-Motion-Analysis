@@ -1,0 +1,145 @@
+Dataset,Member,Position,Speed,Duration (s),Ground Truth,Filter,Detected Steps,Absolute Error,Relative Error (%),Accuracy (%),Cadence (steps/min),Est. Distance (m),Est. Speed (m/s),SNR (dB),Roughness Red (%)
+Akash Sanalkumar | ArmBand - Fast,Akash Sanalkumar,ArmBand,Fast,55.42,100,Raw (No Filter),100,0,0.0,100.0,108.3,72.4,1.31,0.0,0.0
+Akash Sanalkumar | ArmBand - Fast,Akash Sanalkumar,ArmBand,Fast,55.42,100,Moving Average,100,0,0.0,100.0,108.3,72.21,1.3,23.01,26.2
+Akash Sanalkumar | ArmBand - Fast,Akash Sanalkumar,ArmBand,Fast,55.42,100,Kalman Filter,99,1,1.0,99.0,107.2,70.71,1.28,12.5,61.1
+Akash Sanalkumar | ArmBand - Fast,Akash Sanalkumar,ArmBand,Fast,55.42,100,Butterworth (Bandpass),99,1,1.0,99.0,107.2,71.61,1.29,-11.57,13.4
+Akash Sanalkumar | ArmBand - Normal,Akash Sanalkumar,ArmBand,Normal,59.94,100,Raw (No Filter),100,0,0.0,100.0,100.1,67.3,1.12,0.0,0.0
+Akash Sanalkumar | ArmBand - Normal,Akash Sanalkumar,ArmBand,Normal,59.94,100,Moving Average,100,0,0.0,100.0,100.1,67.2,1.12,26.08,25.4
+Akash Sanalkumar | ArmBand - Normal,Akash Sanalkumar,ArmBand,Normal,59.94,100,Kalman Filter,100,0,0.0,100.0,100.1,66.34,1.11,15.14,60.0
+Akash Sanalkumar | ArmBand - Normal,Akash Sanalkumar,ArmBand,Normal,59.94,100,Butterworth (Bandpass),100,0,0.0,100.0,100.1,67.1,1.12,-14.03,15.4
+Akash Sanalkumar | ArmBand - Slow,Akash Sanalkumar,ArmBand,Slow,65.7,100,Raw (No Filter),102,2,2.0,98.0,93.2,63.91,0.97,0.0,0.0
+Akash Sanalkumar | ArmBand - Slow,Akash Sanalkumar,ArmBand,Slow,65.7,100,Moving Average,102,2,2.0,98.0,93.2,63.83,0.97,28.03,30.4
+Akash Sanalkumar | ArmBand - Slow,Akash Sanalkumar,ArmBand,Slow,65.7,100,Kalman Filter,102,2,2.0,98.0,93.2,62.54,0.95,18.29,62.0
+Akash Sanalkumar | ArmBand - Slow,Akash Sanalkumar,ArmBand,Slow,65.7,100,Butterworth (Bandpass),102,2,2.0,98.0,93.2,63.64,0.97,-17.27,23.3
+Akash Sanalkumar | HandSwing - Fast,Akash Sanalkumar,HandSwing,Fast,53.13,102,Raw (No Filter),88,14,13.73,86.27,99.4,67.56,1.27,0.0,0.0
+Akash Sanalkumar | HandSwing - Fast,Akash Sanalkumar,HandSwing,Fast,53.13,102,Moving Average,93,9,8.82,91.18,105.0,71.01,1.34,22.14,36.4
+Akash Sanalkumar | HandSwing - Fast,Akash Sanalkumar,HandSwing,Fast,53.13,102,Kalman Filter,86,16,15.69,84.31,97.1,64.23,1.21,13.27,63.9
+Akash Sanalkumar | HandSwing - Fast,Akash Sanalkumar,HandSwing,Fast,53.13,102,Butterworth (Bandpass),100,2,1.96,98.04,112.9,75.89,1.43,-12.48,28.1
+Akash Sanalkumar | HandSwing - Normal,Akash Sanalkumar,HandSwing,Normal,59.37,100,Raw (No Filter),98,2,2.0,98.0,99.0,67.22,1.13,0.0,0.0
+Akash Sanalkumar | HandSwing - Normal,Akash Sanalkumar,HandSwing,Normal,59.37,100,Moving Average,98,2,2.0,98.0,99.0,67.03,1.13,27.37,24.3
+Akash Sanalkumar | HandSwing - Normal,Akash Sanalkumar,HandSwing,Normal,59.37,100,Kalman Filter,94,6,6.0,94.0,95.0,63.04,1.06,15.35,55.9
+Akash Sanalkumar | HandSwing - Normal,Akash Sanalkumar,HandSwing,Normal,59.37,100,Butterworth (Bandpass),97,3,3.0,97.0,98.0,66.09,1.11,-13.52,13.8
+Akash Sanalkumar | HandSwing - Slow,Akash Sanalkumar,HandSwing,Slow,69.76,101,Raw (No Filter),102,1,0.99,99.01,87.7,63.27,0.91,0.0,0.0
+Akash Sanalkumar | HandSwing - Slow,Akash Sanalkumar,HandSwing,Slow,69.76,101,Moving Average,102,1,0.99,99.01,87.7,63.19,0.91,31.88,17.8
+Akash Sanalkumar | HandSwing - Slow,Akash Sanalkumar,HandSwing,Slow,69.76,101,Kalman Filter,99,2,1.98,98.02,85.1,60.06,0.86,18.33,51.2
+Akash Sanalkumar | HandSwing - Slow,Akash Sanalkumar,HandSwing,Slow,69.76,101,Butterworth (Bandpass),102,1,0.99,99.01,87.7,63.11,0.9,-16.35,7.8
+Akash Sanalkumar | ShirtPocket - Fast,Akash Sanalkumar,ShirtPocket,Fast,56.54,101,Raw (No Filter),103,2,1.98,98.02,109.3,81.98,1.45,0.0,0.0
+Akash Sanalkumar | ShirtPocket - Fast,Akash Sanalkumar,ShirtPocket,Fast,56.54,101,Moving Average,103,2,1.98,98.02,109.3,81.65,1.44,18.72,31.4
+Akash Sanalkumar | ShirtPocket - Fast,Akash Sanalkumar,ShirtPocket,Fast,56.54,101,Kalman Filter,103,2,1.98,98.02,109.3,80.97,1.43,9.28,62.9
+Akash Sanalkumar | ShirtPocket - Fast,Akash Sanalkumar,ShirtPocket,Fast,56.54,101,Butterworth (Bandpass),103,2,1.98,98.02,109.3,81.15,1.44,-8.85,20.7
+Akash Sanalkumar | ShirtPocket - Normal,Akash Sanalkumar,ShirtPocket,Normal,63.98,101,Raw (No Filter),109,8,7.92,92.08,102.2,72.97,1.14,0.0,0.0
+Akash Sanalkumar | ShirtPocket - Normal,Akash Sanalkumar,ShirtPocket,Normal,63.98,101,Moving Average,104,3,2.97,97.03,97.5,69.98,1.09,23.09,41.1
+Akash Sanalkumar | ShirtPocket - Normal,Akash Sanalkumar,ShirtPocket,Normal,63.98,101,Kalman Filter,104,3,2.97,97.03,97.5,69.46,1.09,15.73,67.0
+Akash Sanalkumar | ShirtPocket - Normal,Akash Sanalkumar,ShirtPocket,Normal,63.98,101,Butterworth (Bandpass),104,3,2.97,97.03,97.5,69.91,1.09,-15.29,35.0
+Akash Sanalkumar | ShirtPocket - Slow,Akash Sanalkumar,ShirtPocket,Slow,69.54,102,Raw (No Filter),108,6,5.88,94.12,93.2,68.5,0.99,0.0,0.0
+Akash Sanalkumar | ShirtPocket - Slow,Akash Sanalkumar,ShirtPocket,Slow,69.54,102,Moving Average,105,3,2.94,97.06,90.6,66.84,0.96,24.95,42.4
+Akash Sanalkumar | ShirtPocket - Slow,Akash Sanalkumar,ShirtPocket,Slow,69.54,102,Kalman Filter,105,3,2.94,97.06,90.6,65.83,0.95,17.77,67.7
+Akash Sanalkumar | ShirtPocket - Slow,Akash Sanalkumar,ShirtPocket,Slow,69.54,102,Butterworth (Bandpass),105,3,2.94,97.06,90.6,66.72,0.96,-17.5,39.5
+Akash Sanalkumar | TrouserPocket - Fast,Akash Sanalkumar,TrouserPocket,Fast,56.63,100,Raw (No Filter),103,3,3.0,97.0,109.1,80.34,1.42,0.0,0.0
+Akash Sanalkumar | TrouserPocket - Fast,Akash Sanalkumar,TrouserPocket,Fast,56.63,100,Moving Average,104,4,4.0,96.0,110.2,81.02,1.43,19.62,31.2
+Akash Sanalkumar | TrouserPocket - Fast,Akash Sanalkumar,TrouserPocket,Fast,56.63,100,Kalman Filter,101,1,1.0,99.0,107.0,77.85,1.37,10.13,63.6
+Akash Sanalkumar | TrouserPocket - Fast,Akash Sanalkumar,TrouserPocket,Fast,56.63,100,Butterworth (Bandpass),103,3,3.0,97.0,109.1,79.9,1.41,-9.7,21.8
+Akash Sanalkumar | TrouserPocket - Normal,Akash Sanalkumar,TrouserPocket,Normal,60.02,100,Raw (No Filter),101,1,1.0,99.0,101.0,72.34,1.21,0.0,0.0
+Akash Sanalkumar | TrouserPocket - Normal,Akash Sanalkumar,TrouserPocket,Normal,60.02,100,Moving Average,100,0,0.0,100.0,100.0,71.65,1.19,23.3,28.3
+Akash Sanalkumar | TrouserPocket - Normal,Akash Sanalkumar,TrouserPocket,Normal,60.02,100,Kalman Filter,100,0,0.0,100.0,100.0,70.36,1.17,13.19,61.8
+Akash Sanalkumar | TrouserPocket - Normal,Akash Sanalkumar,TrouserPocket,Normal,60.02,100,Butterworth (Bandpass),101,1,1.0,99.0,101.0,72.03,1.2,-12.53,18.3
+Akash Sanalkumar | TrouserPocket - Slow,Akash Sanalkumar,TrouserPocket,Slow,66.98,100,Raw (No Filter),102,2,2.0,98.0,91.4,63.96,0.95,0.0,0.0
+Akash Sanalkumar | TrouserPocket - Slow,Akash Sanalkumar,TrouserPocket,Slow,66.98,100,Moving Average,100,0,0.0,100.0,89.6,62.84,0.94,27.54,31.6
+Akash Sanalkumar | TrouserPocket - Slow,Akash Sanalkumar,TrouserPocket,Slow,66.98,100,Kalman Filter,100,0,0.0,100.0,89.6,61.62,0.92,18.07,62.1
+Akash Sanalkumar | TrouserPocket - Slow,Akash Sanalkumar,TrouserPocket,Slow,66.98,100,Butterworth (Bandpass),102,2,2.0,98.0,91.4,63.73,0.95,-17.22,24.4
+Mohammed Rafi | ArmBand - Fast,Mohammed Rafi,ArmBand,Fast,50.61,100,Raw (No Filter),101,1,1.0,99.0,119.7,79.16,1.56,0.0,0.0
+Mohammed Rafi | ArmBand - Fast,Mohammed Rafi,ArmBand,Fast,50.61,100,Moving Average,101,1,1.0,99.0,119.7,79.11,1.56,21.31,23.9
+Mohammed Rafi | ArmBand - Fast,Mohammed Rafi,ArmBand,Fast,50.61,100,Kalman Filter,101,1,1.0,99.0,119.7,77.42,1.53,9.87,61.2
+Mohammed Rafi | ArmBand - Fast,Mohammed Rafi,ArmBand,Fast,50.61,100,Butterworth (Bandpass),101,1,1.0,99.0,119.7,78.98,1.56,-8.74,6.3
+Mohammed Rafi | ArmBand - Normal,Mohammed Rafi,ArmBand,Normal,54.04,100,Raw (No Filter),101,1,1.0,99.0,112.1,71.69,1.33,0.0,0.0
+Mohammed Rafi | ArmBand - Normal,Mohammed Rafi,ArmBand,Normal,54.04,100,Moving Average,101,1,1.0,99.0,112.1,71.56,1.32,23.75,24.9
+Mohammed Rafi | ArmBand - Normal,Mohammed Rafi,ArmBand,Normal,54.04,100,Kalman Filter,101,1,1.0,99.0,112.1,70.3,1.3,12.92,60.6
+Mohammed Rafi | ArmBand - Normal,Mohammed Rafi,ArmBand,Normal,54.04,100,Butterworth (Bandpass),101,1,1.0,99.0,112.1,71.43,1.32,-11.9,10.0
+Mohammed Rafi | ArmBand - Slow,Mohammed Rafi,ArmBand,Slow,59.27,100,Raw (No Filter),100,0,0.0,100.0,101.2,63.45,1.07,0.0,0.0
+Mohammed Rafi | ArmBand - Slow,Mohammed Rafi,ArmBand,Slow,59.27,100,Moving Average,100,0,0.0,100.0,101.2,63.33,1.07,25.85,33.6
+Mohammed Rafi | ArmBand - Slow,Mohammed Rafi,ArmBand,Slow,59.27,100,Kalman Filter,100,0,0.0,100.0,101.2,61.95,1.05,17.24,62.9
+Mohammed Rafi | ArmBand - Slow,Mohammed Rafi,ArmBand,Slow,59.27,100,Butterworth (Bandpass),100,0,0.0,100.0,101.2,63.23,1.07,-16.89,25.2
+Mohammed Rafi | HandSwing - Fast,Mohammed Rafi,HandSwing,Fast,48.95,100,Raw (No Filter),77,23,23.0,77.0,94.4,61.93,1.27,0.0,0.0
+Mohammed Rafi | HandSwing - Fast,Mohammed Rafi,HandSwing,Fast,48.95,100,Moving Average,61,39,39.0,61.0,74.8,49.72,1.02,22.8,33.4
+Mohammed Rafi | HandSwing - Fast,Mohammed Rafi,HandSwing,Fast,48.95,100,Kalman Filter,54,46,46.0,54.0,66.2,43.33,0.89,12.07,59.0
+Mohammed Rafi | HandSwing - Fast,Mohammed Rafi,HandSwing,Fast,48.95,100,Butterworth (Bandpass),61,39,39.0,61.0,74.8,49.49,1.01,-10.49,28.3
+Mohammed Rafi | HandSwing - Normal,Mohammed Rafi,HandSwing,Normal,50.73,100,Raw (No Filter),88,12,12.0,88.0,104.1,65.1,1.28,0.0,0.0
+Mohammed Rafi | HandSwing - Normal,Mohammed Rafi,HandSwing,Normal,50.73,100,Moving Average,66,34,34.0,66.0,78.1,49.25,0.97,24.92,28.9
+Mohammed Rafi | HandSwing - Normal,Mohammed Rafi,HandSwing,Normal,50.73,100,Kalman Filter,59,41,41.0,59.0,69.8,43.69,0.86,13.47,57.2
+Mohammed Rafi | HandSwing - Normal,Mohammed Rafi,HandSwing,Normal,50.73,100,Butterworth (Bandpass),74,26,26.0,74.0,87.5,54.93,1.08,-11.72,18.3
+Mohammed Rafi | HandSwing - Slow,Mohammed Rafi,HandSwing,Slow,51.7,100,Raw (No Filter),95,5,5.0,95.0,110.3,67.15,1.3,0.0,0.0
+Mohammed Rafi | HandSwing - Slow,Mohammed Rafi,HandSwing,Slow,51.7,100,Moving Average,84,16,16.0,84.0,97.5,59.44,1.15,26.23,26.2
+Mohammed Rafi | HandSwing - Slow,Mohammed Rafi,HandSwing,Slow,51.7,100,Kalman Filter,65,35,35.0,65.0,75.4,45.38,0.88,14.6,57.9
+Mohammed Rafi | HandSwing - Slow,Mohammed Rafi,HandSwing,Slow,51.7,100,Butterworth (Bandpass),88,12,12.0,88.0,102.1,62.21,1.2,-12.89,14.9
+Mohammed Rafi | ShirtPocket - Fast,Mohammed Rafi,ShirtPocket,Fast,49.64,100,Raw (No Filter),97,3,3.0,97.0,117.2,85.28,1.72,0.0,0.0
+Mohammed Rafi | ShirtPocket - Fast,Mohammed Rafi,ShirtPocket,Fast,49.64,100,Moving Average,104,4,4.0,96.0,125.7,91.18,1.84,15.32,34.0
+Mohammed Rafi | ShirtPocket - Fast,Mohammed Rafi,ShirtPocket,Fast,49.64,100,Kalman Filter,104,4,4.0,96.0,125.7,89.12,1.8,6.68,66.3
+Mohammed Rafi | ShirtPocket - Fast,Mohammed Rafi,ShirtPocket,Fast,49.64,100,Butterworth (Bandpass),105,5,5.0,95.0,126.9,91.52,1.84,-6.74,21.4
+Mohammed Rafi | ShirtPocket - Normal,Mohammed Rafi,ShirtPocket,Normal,51.96,100,Raw (No Filter),104,4,4.0,96.0,120.1,82.43,1.59,0.0,0.0
+Mohammed Rafi | ShirtPocket - Normal,Mohammed Rafi,ShirtPocket,Normal,51.96,100,Moving Average,104,4,4.0,96.0,120.1,82.13,1.58,18.31,31.6
+Mohammed Rafi | ShirtPocket - Normal,Mohammed Rafi,ShirtPocket,Normal,51.96,100,Kalman Filter,104,4,4.0,96.0,120.1,80.67,1.55,9.4,64.2
+Mohammed Rafi | ShirtPocket - Normal,Mohammed Rafi,ShirtPocket,Normal,51.96,100,Butterworth (Bandpass),104,4,4.0,96.0,120.1,81.76,1.57,-8.92,17.0
+Mohammed Rafi | ShirtPocket - Slow,Mohammed Rafi,ShirtPocket,Slow,55.09,100,Raw (No Filter),105,5,5.0,95.0,114.4,78.07,1.42,0.0,0.0
+Mohammed Rafi | ShirtPocket - Slow,Mohammed Rafi,ShirtPocket,Slow,55.09,100,Moving Average,104,4,4.0,96.0,113.3,77.07,1.4,20.88,31.1
+Mohammed Rafi | ShirtPocket - Slow,Mohammed Rafi,ShirtPocket,Slow,55.09,100,Kalman Filter,104,4,4.0,96.0,113.3,76.17,1.38,11.68,63.6
+Mohammed Rafi | ShirtPocket - Slow,Mohammed Rafi,ShirtPocket,Slow,55.09,100,Butterworth (Bandpass),105,5,5.0,95.0,114.4,77.33,1.4,-11.05,18.6
+Mohammed Rafi | TrouserPocket - Fast,Mohammed Rafi,TrouserPocket,Fast,50.27,100,Raw (No Filter),90,10,10.0,90.0,107.4,85.43,1.7,0.0,0.0
+Mohammed Rafi | TrouserPocket - Fast,Mohammed Rafi,TrouserPocket,Fast,50.27,100,Moving Average,93,7,7.0,93.0,111.0,87.5,1.74,16.7,28.7
+Mohammed Rafi | TrouserPocket - Fast,Mohammed Rafi,TrouserPocket,Fast,50.27,100,Kalman Filter,86,14,14.0,86.0,102.6,79.44,1.58,6.34,62.9
+Mohammed Rafi | TrouserPocket - Fast,Mohammed Rafi,TrouserPocket,Fast,50.27,100,Butterworth (Bandpass),102,2,2.0,98.0,121.7,94.68,1.88,-5.35,13.9
+Mohammed Rafi | TrouserPocket - Normal,Mohammed Rafi,TrouserPocket,Normal,53.19,100,Raw (No Filter),98,2,2.0,98.0,110.6,90.23,1.7,0.0,0.0
+Mohammed Rafi | TrouserPocket - Normal,Mohammed Rafi,TrouserPocket,Normal,53.19,100,Moving Average,99,1,1.0,99.0,111.7,91.01,1.71,17.64,29.9
+Mohammed Rafi | TrouserPocket - Normal,Mohammed Rafi,TrouserPocket,Normal,53.19,100,Kalman Filter,88,12,12.0,88.0,99.3,79.62,1.5,6.98,62.9
+Mohammed Rafi | TrouserPocket - Normal,Mohammed Rafi,TrouserPocket,Normal,53.19,100,Butterworth (Bandpass),102,2,2.0,98.0,115.1,92.83,1.75,-5.91,17.0
+Mohammed Rafi | TrouserPocket - Slow,Mohammed Rafi,TrouserPocket,Slow,58.72,100,Raw (No Filter),101,1,1.0,99.0,103.2,83.25,1.42,0.0,0.0
+Mohammed Rafi | TrouserPocket - Slow,Mohammed Rafi,TrouserPocket,Slow,58.72,100,Moving Average,101,1,1.0,99.0,103.2,82.89,1.41,19.15,31.9
+Mohammed Rafi | TrouserPocket - Slow,Mohammed Rafi,TrouserPocket,Slow,58.72,100,Kalman Filter,95,5,5.0,95.0,97.1,75.52,1.29,9.81,63.0
+Mohammed Rafi | TrouserPocket - Slow,Mohammed Rafi,TrouserPocket,Slow,58.72,100,Butterworth (Bandpass),103,3,3.0,97.0,105.3,83.53,1.42,-9.09,21.8
+Sunil Muthegowda | ArmBand - Fast,Sunil Muthegowda,ArmBand,Fast,60.9,112,Raw (No Filter),112,0,0.0,100.0,110.3,86.97,1.43,0.0,0.0
+Sunil Muthegowda | ArmBand - Fast,Sunil Muthegowda,ArmBand,Fast,60.9,112,Moving Average,111,1,0.89,99.11,109.4,86.02,1.41,20.62,25.3
+Sunil Muthegowda | ArmBand - Fast,Sunil Muthegowda,ArmBand,Fast,60.9,112,Kalman Filter,111,1,0.89,99.11,109.4,85.14,1.4,10.05,60.3
+Sunil Muthegowda | ArmBand - Fast,Sunil Muthegowda,ArmBand,Fast,60.9,112,Butterworth (Bandpass),112,0,0.0,100.0,110.3,86.44,1.42,-9.18,13.2
+Sunil Muthegowda | ArmBand - Normal,Sunil Muthegowda,ArmBand,Normal,67.5,107,Raw (No Filter),108,1,0.93,99.07,96.0,79.19,1.17,0.0,0.0
+Sunil Muthegowda | ArmBand - Normal,Sunil Muthegowda,ArmBand,Normal,67.5,107,Moving Average,108,1,0.93,99.07,96.0,79.13,1.17,22.49,31.1
+Sunil Muthegowda | ArmBand - Normal,Sunil Muthegowda,ArmBand,Normal,67.5,107,Kalman Filter,107,0,0.0,100.0,95.1,76.64,1.14,12.9,64.3
+Sunil Muthegowda | ArmBand - Normal,Sunil Muthegowda,ArmBand,Normal,67.5,107,Butterworth (Bandpass),108,1,0.93,99.07,96.0,79.01,1.17,-12.7,28.3
+Sunil Muthegowda | ArmBand - Slow,Sunil Muthegowda,ArmBand,Slow,87.64,116,Raw (No Filter),119,3,2.59,97.41,81.5,75.82,0.87,0.0,0.0
+Sunil Muthegowda | ArmBand - Slow,Sunil Muthegowda,ArmBand,Slow,87.64,116,Moving Average,117,1,0.86,99.14,80.1,74.53,0.85,24.9,44.8
+Sunil Muthegowda | ArmBand - Slow,Sunil Muthegowda,ArmBand,Slow,87.64,116,Kalman Filter,117,1,0.86,99.14,80.1,72.74,0.83,18.63,68.5
+Sunil Muthegowda | ArmBand - Slow,Sunil Muthegowda,ArmBand,Slow,87.64,116,Butterworth (Bandpass),118,2,1.72,98.28,80.8,74.7,0.85,-19.0,44.2
+Sunil Muthegowda | HandSwing - Fast,Sunil Muthegowda,HandSwing,Fast,59.7,111,Raw (No Filter),111,0,0.0,100.0,111.6,88.17,1.48,0.0,0.0
+Sunil Muthegowda | HandSwing - Fast,Sunil Muthegowda,HandSwing,Fast,59.7,111,Moving Average,110,1,0.9,99.1,110.5,87.34,1.46,22.17,23.7
+Sunil Muthegowda | HandSwing - Fast,Sunil Muthegowda,HandSwing,Fast,59.7,111,Kalman Filter,109,2,1.8,98.2,109.5,85.18,1.43,11.1,59.1
+Sunil Muthegowda | HandSwing - Fast,Sunil Muthegowda,HandSwing,Fast,59.7,111,Butterworth (Bandpass),111,0,0.0,100.0,111.6,88.02,1.47,-10.02,9.5
+Sunil Muthegowda | HandSwing - Normal,Sunil Muthegowda,HandSwing,Normal,71.03,111,Raw (No Filter),111,0,0.0,100.0,93.8,76.36,1.08,0.0,0.0
+Sunil Muthegowda | HandSwing - Normal,Sunil Muthegowda,HandSwing,Normal,71.03,111,Moving Average,111,0,0.0,100.0,93.8,76.38,1.08,28.6,16.5
+Sunil Muthegowda | HandSwing - Normal,Sunil Muthegowda,HandSwing,Normal,71.03,111,Kalman Filter,111,0,0.0,100.0,93.8,74.56,1.05,14.83,52.9
+Sunil Muthegowda | HandSwing - Normal,Sunil Muthegowda,HandSwing,Normal,71.03,111,Butterworth (Bandpass),111,0,0.0,100.0,93.8,76.28,1.07,-13.12,5.4
+Sunil Muthegowda | HandSwing - Slow,Sunil Muthegowda,HandSwing,Slow,79.54,110,Raw (No Filter),112,2,1.82,98.18,84.5,73.51,0.92,0.0,0.0
+Sunil Muthegowda | HandSwing - Slow,Sunil Muthegowda,HandSwing,Slow,79.54,110,Moving Average,111,1,0.91,99.09,83.7,72.84,0.92,27.07,28.6
+Sunil Muthegowda | HandSwing - Slow,Sunil Muthegowda,HandSwing,Slow,79.54,110,Kalman Filter,111,1,0.91,99.09,83.7,70.88,0.89,16.95,59.2
+Sunil Muthegowda | HandSwing - Slow,Sunil Muthegowda,HandSwing,Slow,79.54,110,Butterworth (Bandpass),112,2,1.82,98.18,84.5,73.34,0.92,-15.9,22.1
+Sunil Muthegowda | ShirtPocket - Fast,Sunil Muthegowda,ShirtPocket,Fast,64.37,111,Raw (No Filter),114,3,2.7,97.3,106.3,93.4,1.45,0.0,0.0
+Sunil Muthegowda | ShirtPocket - Fast,Sunil Muthegowda,ShirtPocket,Fast,64.37,111,Moving Average,114,3,2.7,97.3,106.3,93.09,1.45,17.71,32.8
+Sunil Muthegowda | ShirtPocket - Fast,Sunil Muthegowda,ShirtPocket,Fast,64.37,111,Kalman Filter,114,3,2.7,97.3,106.3,92.21,1.43,8.41,63.6
+Sunil Muthegowda | ShirtPocket - Fast,Sunil Muthegowda,ShirtPocket,Fast,64.37,111,Butterworth (Bandpass),116,5,4.5,95.5,108.1,93.98,1.46,-8.11,23.8
+Sunil Muthegowda | ShirtPocket - Normal,Sunil Muthegowda,ShirtPocket,Normal,63.81,106,Raw (No Filter),107,1,0.94,99.06,100.6,83.24,1.3,0.0,0.0
+Sunil Muthegowda | ShirtPocket - Normal,Sunil Muthegowda,ShirtPocket,Normal,63.81,106,Moving Average,107,1,0.94,99.06,100.6,83.18,1.3,19.4,36.1
+Sunil Muthegowda | ShirtPocket - Normal,Sunil Muthegowda,ShirtPocket,Normal,63.81,106,Kalman Filter,106,0,0.0,100.0,99.7,81.22,1.27,10.62,65.8
+Sunil Muthegowda | ShirtPocket - Normal,Sunil Muthegowda,ShirtPocket,Normal,63.81,106,Butterworth (Bandpass),106,0,0.0,100.0,99.7,82.14,1.29,-10.61,33.8
+Sunil Muthegowda | ShirtPocket - Slow,Sunil Muthegowda,ShirtPocket,Slow,88.04,116,Raw (No Filter),122,6,5.17,94.83,83.1,77.33,0.88,0.0,0.0
+Sunil Muthegowda | ShirtPocket - Slow,Sunil Muthegowda,ShirtPocket,Slow,88.04,116,Moving Average,119,3,2.59,97.41,81.1,75.55,0.86,27.2,36.3
+Sunil Muthegowda | ShirtPocket - Slow,Sunil Muthegowda,ShirtPocket,Slow,88.04,116,Kalman Filter,117,1,0.86,99.14,79.7,72.41,0.82,18.57,62.9
+Sunil Muthegowda | ShirtPocket - Slow,Sunil Muthegowda,ShirtPocket,Slow,88.04,116,Butterworth (Bandpass),119,3,2.59,97.41,81.1,75.41,0.86,-17.75,32.5
+Sunil Muthegowda | TrouserPocket - Fast,Sunil Muthegowda,TrouserPocket,Fast,65.09,111,Raw (No Filter),117,6,5.41,94.59,107.8,103.66,1.59,0.0,0.0
+Sunil Muthegowda | TrouserPocket - Fast,Sunil Muthegowda,TrouserPocket,Fast,65.09,111,Moving Average,114,3,2.7,97.3,105.1,101.69,1.56,15.23,39.8
+Sunil Muthegowda | TrouserPocket - Fast,Sunil Muthegowda,TrouserPocket,Fast,65.09,111,Kalman Filter,112,1,0.9,99.1,103.2,96.27,1.48,7.77,68.0
+Sunil Muthegowda | TrouserPocket - Fast,Sunil Muthegowda,TrouserPocket,Fast,65.09,111,Butterworth (Bandpass),121,10,9.01,90.99,111.5,106.83,1.64,-8.39,34.9
+Sunil Muthegowda | TrouserPocket - Normal,Sunil Muthegowda,TrouserPocket,Normal,71.21,106,Raw (No Filter),112,6,5.66,94.34,94.4,103.09,1.45,0.0,0.0
+Sunil Muthegowda | TrouserPocket - Normal,Sunil Muthegowda,TrouserPocket,Normal,71.21,106,Moving Average,109,3,2.83,97.17,91.8,100.49,1.41,14.95,38.7
+Sunil Muthegowda | TrouserPocket - Normal,Sunil Muthegowda,TrouserPocket,Normal,71.21,106,Kalman Filter,107,1,0.94,99.06,90.2,95.22,1.34,6.98,66.8
+Sunil Muthegowda | TrouserPocket - Normal,Sunil Muthegowda,TrouserPocket,Normal,71.21,106,Butterworth (Bandpass),113,7,6.6,93.4,95.2,103.67,1.46,-7.47,33.6
+Sunil Muthegowda | TrouserPocket - Slow,Sunil Muthegowda,TrouserPocket,Slow,74.21,110,Raw (No Filter),119,9,8.18,91.82,96.2,98.99,1.33,0.0,0.0
+Sunil Muthegowda | TrouserPocket - Slow,Sunil Muthegowda,TrouserPocket,Slow,74.21,110,Moving Average,117,7,6.36,93.64,94.6,97.42,1.31,16.97,39.9
+Sunil Muthegowda | TrouserPocket - Slow,Sunil Muthegowda,TrouserPocket,Slow,74.21,110,Kalman Filter,110,0,0.0,100.0,88.9,89.44,1.21,9.22,66.9
+Sunil Muthegowda | TrouserPocket - Slow,Sunil Muthegowda,TrouserPocket,Slow,74.21,110,Butterworth (Bandpass),125,15,13.64,86.36,101.1,103.17,1.39,-9.63,36.7
